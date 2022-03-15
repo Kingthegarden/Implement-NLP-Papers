@@ -15,17 +15,18 @@
 
 - 1-1. [Seq2Seq with Attention](4-2.Seq2Seq(Attention)) - **Translate**
   - Paper - [Neural Machine Translation by Jointly Learning to Align and Translate(2014)](https://arxiv.org/abs/1409.0473)
-  - kaggle - [Seq2Seq(Attention).ipynb](https://www.kaggle.com/jeongwonkim10516/attention-mechanism-for-nlp-beginners)
+  - kaggle - [Attention-Mechanism-for-NLP-beginners](https://www.kaggle.com/jeongwonkim10516/attention-mechanism-for-nlp-beginners)
 
 
-## Dependencies
+## Environment
 
-- Python 3.5+
-- Pytorch 1.0.0+
+- Python 3.7 (To match with Kaggle environment)
+- CUDA 11.3 + PyTorch 1.10.1
+- Conda
 
 
 ## Author
 
-- Tae Hwan Jung(Jeff Jung) @graykode
-- Author Email : nlkey2022@gmail.com
-- Acknowledgements to [mojitok](http://mojitok.com/) as NLP Research Internship.
+- Jeong Won Kim @Kingthegarden
+- Author Email : kimkim031@naver.com
+- Kaggle : https://www.kaggle.com/jeongwonkim10516
