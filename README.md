@@ -1,15 +1,12 @@
 ## Implement NLP Papers
 
-
 <p align="center">
 <img width="350" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"  align="middle">
 </p>
 
-`Implement NLP Papers` is a tutorial for who is studying NLP(Natural Language Processing) using **Pytorch**. Most of the models in NLP were implemented with less than **100 lines** of code.(except comments or blank lines)
+`Implement NLP Papers` is a tutorial for who is studying NLP(Natural Language Processing) using **Pytorch**. It aims to implement based on NLP papers, ranging from basic NLP methods to SOTA NLP models.
 
-
-## Curriculum - (Example Purpose)
-
+## Table of Contents
 
 #### 1. Attention Mechanism
 
