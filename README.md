@@ -10,7 +10,7 @@
 
 #### 1. Attention Mechanism
 
-- 1-1. [Seq2Seq with Attention](4-2.Seq2Seq(Attention)) - **Translate**
+- 1-1. Seq2Seq with Attention - **Translate**
   - Paper - [Neural Machine Translation by Jointly Learning to Align and Translate(2014)](https://arxiv.org/abs/1409.0473)
   - kaggle - [Attention-Mechanism-for-NLP-beginners](https://www.kaggle.com/jeongwonkim10516/attention-mechanism-for-nlp-beginners)
 
